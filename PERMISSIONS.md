@@ -31,6 +31,9 @@ gamemodesandmore.basic.playerhide = allows the player who has permission to hide
 gamemodesandmore.basic.rtp = allows the player who has the permission to randomly teleport in the world using /wild and /rtp
 
 ## Admin
+gamemodesandmore.admin.vanish = allows the player who has the permission to vanish out of the world
+gamemodesandmore.admin.seevanish = allows the player who has the permission to see all vanished player
+
 gamemodesandmore.* = allows the player who has the permission to access all of the above commands! (reccomended only for the mods on your server)
 
 #### * = allows access to all of the commands on the server, including ones in this plugin and also OTHER PLUGINS! (reccomended for co-owners of the server)
