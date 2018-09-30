@@ -17,6 +17,8 @@ This plugin improves the user's experience by assigning aliases to some vanilla 
 ### Midday
 ### Night
 ### RTP
-### Wild
-### Heal (Currently Broken)
-### Heal Player (Currently Blocken)
+### Wild (exactly the same as RTP)
+### Heal
+### Allplayers (hides players from you)
+### Vanish (hides you from players)
+### V (exactly the same as Vanish)
