@@ -22,3 +22,6 @@ This plugin improves the user's experience by assigning aliases to some vanilla 
 ### Allplayers (hides players from you)
 ### Vanish (hides you from players)
 ### V (exactly the same as Vanish)
+### SuperVanish (hides you)
+### SV (Same as SuperVanish)
+### KickAll (Kicks all Players)
